@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiGraphics.Sample.Blazor.WebAssembly.Client", "Client\MauiGraphics.Sample.Blazor.WebAssembly.Client.csproj", "{645CCFC2-18E5-43C7-A83B-F95BBCD13863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiGraphics.Sample.Blazor.WebAssembly.Client", "Client\MauiGraphics.Sample.Blazor.WebAssembly.Client.csproj", "{645CCFC2-18E5-43C7-A83B-F95BBCD13863}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34BFE1DF-0326-4572-80E5-56CEC857F938}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
